@@ -3,7 +3,8 @@ using SocialNetwork.DAL.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
-
+//тест почему то не запускается
+//ошибок не выдает
 namespace SocialNetwork.Test
 {
     [TestFixture]    
